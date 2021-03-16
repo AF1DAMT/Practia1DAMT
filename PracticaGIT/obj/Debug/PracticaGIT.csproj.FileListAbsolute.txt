@@ -1,0 +1,10 @@
+C:\Users\alexb\source\repos\AF1DAMT\Practia1DAMT\PracticaGIT\bin\Debug\PracticaGIT.exe.config
+C:\Users\alexb\source\repos\AF1DAMT\Practia1DAMT\PracticaGIT\bin\Debug\PracticaGIT.exe
+C:\Users\alexb\source\repos\AF1DAMT\Practia1DAMT\PracticaGIT\bin\Debug\PracticaGIT.pdb
+C:\Users\alexb\source\repos\AF1DAMT\Practia1DAMT\PracticaGIT\obj\Debug\PracticaGIT.csprojAssemblyReference.cache
+C:\Users\alexb\source\repos\AF1DAMT\Practia1DAMT\PracticaGIT\obj\Debug\PracticaGIT.Form1.resources
+C:\Users\alexb\source\repos\AF1DAMT\Practia1DAMT\PracticaGIT\obj\Debug\PracticaGIT.Properties.Resources.resources
+C:\Users\alexb\source\repos\AF1DAMT\Practia1DAMT\PracticaGIT\obj\Debug\PracticaGIT.csproj.GenerateResource.cache
+C:\Users\alexb\source\repos\AF1DAMT\Practia1DAMT\PracticaGIT\obj\Debug\PracticaGIT.csproj.CoreCompileInputs.cache
+C:\Users\alexb\source\repos\AF1DAMT\Practia1DAMT\PracticaGIT\obj\Debug\PracticaGIT.exe
+C:\Users\alexb\source\repos\AF1DAMT\Practia1DAMT\PracticaGIT\obj\Debug\PracticaGIT.pdb
